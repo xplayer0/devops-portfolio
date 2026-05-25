@@ -53,6 +53,6 @@ helm template my-release ./my-app
 
 Если у вас есть вопросы или предложения, буду рад пообщаться:
 
-Telegram: @STATSENKO_ANTON
+* **Telegram:** @STATSENKO_ANTON
 
-Email: a.s.9855127204@yandex.ru
+* **Email:** a.s.9855127204@yandex.ru
